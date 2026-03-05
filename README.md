@@ -1,6 +1,6 @@
 🖐️ Real-Time Hand Gesture Recognition AI
 An end-to-end Computer Vision pipeline that detects and classifies hand gestures in real-time. This project uses Google MediaPipe for landmark extraction and a custom TensorFlow/Keras Neural Network for classification.
-📺 Demo IMAGE <img width="256" height="256" alt="113" src="https://github.com/user-attachments/assets/73600be0-6187-4f47-aefe-6130422c8ccd" />
+📺 Demo IMAGE <img width="250" height="250" alt="113" src="https://github.com/user-attachments/assets/73600be0-6187-4f47-aefe-6130422c8ccd" />
 🚀 Key Features
 Landmark-Based Detection: Instead of processing raw pixels, the system tracks 21 specific 3D hand landmarks, making it robust against background noise.
 High-Speed Inference: Optimized for real-time performance (30+ FPS) on standard CPUs.
